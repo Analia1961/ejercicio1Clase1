@@ -1,2 +1,2 @@
-# ejercicio1Clase1
+# PrueboMiprimerRepo
 Created with CodeSandbox

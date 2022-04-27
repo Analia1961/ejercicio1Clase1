@@ -1,1 +1,1 @@
-console.log("ejercicio1 clase1");
+console.log("ejercicio1_Clase1");

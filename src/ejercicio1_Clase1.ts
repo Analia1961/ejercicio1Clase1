@@ -8,3 +8,4 @@ console.log("agrego colaboradores para que suban sus propias fotos");
 console.log("etiqueto algunos amigos");
 console.log("reviso destinatarios de la publicación");
 console.log("guardo y publico el álbum");
+console.log("me encanta");
